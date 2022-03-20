@@ -27,6 +27,7 @@
 
 ## Table of Contents
 
+- [Want to show your love?](#want-to-show-your-love)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Features](#features)
@@ -47,13 +48,13 @@
 ## Installation
 
 ```bash
-$ yarn add react-native-phone-number-input
+$ yarn add @hamahmi/react-native-phone-number-input
 ```
 
 OR
 
 ```bash
-$ npm i react-native-phone-number-input --save
+$ npm i @hamahmi/react-native-phone-number-input --save
 ```
 
 ## Features
@@ -65,7 +66,7 @@ $ npm i react-native-phone-number-input --save
 
 ## Usage
 
-For more complete example open [App.tsx](https://github.com/garganurag893/react-native-phone-number-input/blob/master/example/App.tsx)
+For more complete example open [App.tsx](https://github.com/Hamahmi/react-native-phone-number-input/blob/master/example/App.tsx)
 
 ```tsx
 import React, { useState, useRef } from "react";
@@ -77,7 +78,7 @@ import {
   TouchableOpacity,
   Text,
 } from "react-native";
-import PhoneInput from "react-native-phone-number-input";
+import PhoneInput from "@hamahmi/react-native-phone-number-input";
 import { Colors } from "react-native/Libraries/NewAppScreen";
 
 const App: React.FC = () => {
@@ -186,7 +187,7 @@ Upgrade `versions['Flipper'] ||= '~> 0.37.0'` in podfile.
   - 🍴 Fork this repo!
 
 - **Option 2**
-  - 👯 Clone this repo to your local machine using `https://github.com/garganurag893/react-native-phone-number-input`
+  - 👯 Clone this repo to your local machine using `https://github.com/Hamahmi/react-native-phone-number-input`
 
 ### Step 2
 
@@ -194,7 +195,7 @@ Upgrade `versions['Flipper'] ||= '~> 0.37.0'` in podfile.
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/garganurag893/react-native-phone-number-input" target="_blank">`https://github.com/garganurag893/react-native-phone-number-input`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/Hamahmi/react-native-phone-number-input" target="_blank">`https://github.com/Hamahmi/react-native-phone-number-input`</a>.
 
 ## Support
 
